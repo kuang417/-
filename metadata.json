@@ -1,0 +1,6 @@
+{
+  "name": "北港建司安全管理系统",
+  "description": "基于AI视频分析与移动随手拍的主动防御型安全建造管控系统，支持14类微场景拦截及设备闭环联动。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
